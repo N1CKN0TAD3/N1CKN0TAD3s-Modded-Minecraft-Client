@@ -1,4 +1,7 @@
 # N1CKN0TAD3's Modded Minecraft Client
+
+https://github.com/N1CKN0TAD3/N1CKN0TAD3s-Modded-Minecraft-Client/blob/MASTER/NMMC.PNG?raw=true)
+
 My Minecraft Client WITH Installer INCLUDED!!!! 
 
 NOTE:
